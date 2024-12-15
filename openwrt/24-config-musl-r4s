@@ -1,7 +1,7 @@
 ### Init
 CONFIG_TARGET_qualcommax=y
 CONFIG_TARGET_qualcommax_ipq60xx=y
-CONFIG_TARGET_qualcommax_ipq60xx_DEVICE_qihoo_360v6=y
+CONFIG_TARGET_qualcommax_ipq60xx_DEVICE_netgear_wax214=y
 
 ### Basic
 CONFIG_ALL_KMODS=y
